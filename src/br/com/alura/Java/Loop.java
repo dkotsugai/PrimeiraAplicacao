@@ -1,3 +1,5 @@
+package br.com.alura.Java;
+
 import java.util.Scanner;
 
 public class Loop {
