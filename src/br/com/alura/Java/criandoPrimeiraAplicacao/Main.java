@@ -1,4 +1,4 @@
-package br.com.alura.Java;
+package br.com.alura.Java.criandoPrimeiraAplicacao;
 
 public class Main {
     public static void main(String[] args) {

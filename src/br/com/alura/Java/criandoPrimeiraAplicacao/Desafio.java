@@ -1,4 +1,4 @@
-package br.com.alura.Java;
+package br.com.alura.Java.criandoPrimeiraAplicacao;
 
 import java.util.Scanner;
 
